@@ -1,0 +1,15 @@
+{
+  "name": "how-big-node-modules",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "GLWT",
+  "bin": {
+    "how_big_node_modules": "index.js"
+  },
+  "scripts": {
+    "test": "jest test/*.spec.js"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
